@@ -1,9 +1,14 @@
 import { Button } from '@mui/material';
 import * as React from 'react';
-import './_button.module.scss';
+
+import styles from './_button.module.scss';
 
 function MyButton() {
-  return <Button className='blackButton'>Sass Button</Button>;
+  return (
+    <Button variant='contained' className={styles.blackButton}>
+      Sass Button
+    </Button>
+  );
 }
 
 export default MyButton;

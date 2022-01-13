@@ -4,4 +4,8 @@
   background-color: var.$primaryColor;
   color: white;
   width: fit-content;
+
+  &:hover {
+    background-color: rgb(41, 38, 38);
+  }
 }
