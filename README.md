@@ -12,6 +12,21 @@
 
 ## Getting Started
 
+### Clone this template using one of these ways:
+
+1. Use this repository as template
+   **Disclosure:** by using this repository as a template, there will be an attribution on your repository.
+   
+   I'll appreciate if you do, so this template can be known by others too 😄
+   
+   ![Use as template](https://user-images.githubusercontent.com/47277994/149296446-42b359fa-878a-4fc2-9297-8921db48c3e5.png)
+
+2. Using `create-next-app`
+
+   ```bash
+   npx create-next-app -e https://github.com/RidhoAnshory/nextjs-ts-mui5-scss-storybook-starter your-project-name
+   ```
+### Run the repository
 First, run the development server:
 
 ```bash
