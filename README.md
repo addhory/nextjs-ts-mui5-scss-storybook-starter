@@ -27,7 +27,15 @@
    npx create-next-app -e https://github.com/RidhoAnshory/nextjs-ts-mui5-scss-storybook-starter your-project-name
    ```
 ### Run the repository
-First, run the development server:
+First, install the dependencies:
+
+```bash
+npm install
+#
+yarn
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
