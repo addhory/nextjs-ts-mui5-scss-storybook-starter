@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Mui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Netlify](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+<div align="center">
+  <h1>🔋 nextjs-ts-mui5-scss-storybook-starter</h1>
+  <p>Next.js + Tailwind CSS + TypeScript starter packed with useful development features.</p>
+  <p>Made by <a href="https://ridho-homepage.vercel.app/">M Ridho Anshory</a></p>
+</div>
 
 ## Getting Started
 

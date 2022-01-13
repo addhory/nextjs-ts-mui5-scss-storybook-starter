@@ -1,0 +1,7 @@
+@use '/styles/variables' as var;
+
+.blackButton {
+  background-color: var.$primaryColor;
+  color: white;
+  width: fit-content;
+}
