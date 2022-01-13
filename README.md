@@ -5,8 +5,8 @@
 ![Netlify](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 <div align="center">
-  <h1>🔋 nextjs-ts-mui5-scss-storybook-starter</h1>
-  <p>Next.js + TypeScript + Material UI v5 + Sass + Storybook starter packed with useful development features.</p>
+  <h1>nextjs-ts-mui5-scss-storybook-starter📕</h1>
+  <p>Next.js + TypeScript + Material UI v5 + Sass + Storybook starter📕 with linting & prettier pre-configured</p>
   <p>Made by <a href="https://ridho-homepage.vercel.app/">M Ridho Anshory</a></p>
 </div>
 
