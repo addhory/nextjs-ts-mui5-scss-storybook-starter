@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>🔋 nextjs-ts-mui5-scss-storybook-starter</h1>
-  <p>Next.js + Tailwind CSS + TypeScript starter packed with useful development features.</p>
+  <p>Next.js + TypeScript + Material UI v5 + Sass + Storybook starter packed with useful development features.</p>
   <p>Made by <a href="https://ridho-homepage.vercel.app/">M Ridho Anshory</a></p>
 </div>
 
